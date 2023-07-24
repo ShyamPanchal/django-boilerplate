@@ -1,1 +1,1 @@
-# Django Boilerplate Application
+# {{ project_name }} Application
